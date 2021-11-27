@@ -1,13 +1,11 @@
 tasks:
-  - before: >
-      source ~/.bashrc
-    init: |
+  - init: |
       echo "Wait for the installation"
-      yes | sdk i java 8.0.232-open
-      sdk i kotlin
-      sdkmanager --update
-      yes | sdkmanager --licenses
       flutter pub get
       flutter run -d web-server --no-resident
     command: >
       echo "Ready!"
+
+ports:
+  - port: 8080
+    onOpen: open-preview
