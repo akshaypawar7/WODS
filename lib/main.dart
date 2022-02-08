@@ -28,7 +28,7 @@ void main() async {
         builder: (BuildContext context, Box<dynamic> box, Widget? child) {
           return MaterialApp(
             debugShowCheckedModeBanner: false,
-            themeMode: box.get('darkMode', defaultValue: false) ? ThemeMode.dark : ThemeMode.light,
+            themeMode: box.get('darkMode', defaultValue: True) ? ThemeMode.dark : ThemeMode.light,
             theme: ThemeData(
               primaryColor: Colors.grey[50],
               brightness: Brightness.light,
