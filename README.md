@@ -34,9 +34,9 @@ Home Page Sidebaar         |  Home Page       |   Home Page               |  Hom
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: |:-------------------------:|:-------------------------:
 ![](s_sidebar.png)         | ![](s_watchlist0.png)     |![](s_watchlist1.png)      |![](s_watchlist2.png)       |![](s_watchlist3.png)      |![](s_watchlistbottom.png)|
 
-Compose Post Page          | tags To Post              |       Profile Page        |Search Page                |
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-![](s_composefeed.png)|![](s_tag.png)|![](s_profile.png)|![](s_search.png)|
+Feed Page                  |  Compose Post Page          | tags To Post              |       Profile Page        |Search Page                |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+![](s_feed.png)|    ![](s_composefeed.png)|![](s_tag.png)|![](s_profile.png)|![](s_search.png)|
 
 
 
