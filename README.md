@@ -1,7 +1,7 @@
 ## WODS stock markets app in flutter 
 A Stock Market app built in Flutter using Firebase auth,realtime,firestore database and storage.
 
-<img width="100%" alt="Fwiiter Banner" src="s_cover.png">
+<img width="100%" alt="Fwiiter Banner" src="test/s_cover.png">
 
 ## Dependencies
 <details>
@@ -28,15 +28,15 @@ A Stock Market app built in Flutter using Firebase auth,realtime,firestore datab
 
   Login Page               | Signup Page               
 :-------------------------:|:-------------------------:
-![](s_login.png)|![](s_signup.png)|
+![](test/s_login.png)|![](test/s_signup.png)|
 
 Home Page Sidebaar         |  Home Page       |   Home Page               |  Home Page     |   Home Page               |   Home Page bottomsheet               |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: |:-------------------------:|:-------------------------:
-![](s_sidebar.png)         | ![](s_watchlist0.png)     |![](s_watchlist1.png)      |![](s_watchlist2.png)       |![](s_watchlist3.png)      |![](s_watchlistbottom.png)|
+![](test/s_sidebar.png)         | ![](test/s_watchlist0.png)     |![](test/s_watchlist1.png)      |![](test/s_watchlist2.png)       |![](test/s_watchlist3.png)      |![](test/s_watchlistbottom.png)|
 
 Feed Page                  |  Compose Post Page          | tags To Post              |       Profile Page        |Search Page                |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-![](s_feed.png)|    ![](s_composefeed.png)|![](s_tag.png)|![](s_profile.png)|![](s_search.png)|
+![](test/s_feed.png)|    ![](test/s_composefeed.png)|![](test/s_tag.png)|![](test/s_profile.png)|![](test/s_search.png)|
 
 
 
