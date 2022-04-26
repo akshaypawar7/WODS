@@ -26,17 +26,14 @@ A Stock Market app built in Flutter using Firebase auth,realtime,firestore datab
 
 ## Screenshots
 
-  Login Page               | Signup Page               
-:-------------------------:|:-------------------------:
-![](test/s_login.png)|![](test/s_signup.png)|
 
-Home Page Sidebaar         |  Home Page       |   Home Page               |  Home Page     |   Home Page               |   Home Page bottomsheet               |
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: |:-------------------------:|:-------------------------:
-![](test/s_sidebar.png)         | ![](test/s_watchlist0.png)     |![](test/s_watchlist1.png)      |![](test/s_watchlist2.png)       |![](test/s_watchlist3.png)      |![](test/s_watchlistbottom.png)|
+  Login Page               | Signup Page              | Home Page Sidebaar         |  Home Page       |   Home Page               |  Home Page     |   Home Page      |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: |:-------------------------:|
+![](test/s_login.png)      |   ![](test/s_signup.png) |  ![](test/s_sidebar.png)         | ![](test/s_watchlist0.png)     |![](test/s_watchlist1.png)      |![](test/s_watchlist2.png)       |![](test/s_watchlist3.png)      
 
-Feed Page                  |  Compose Post Page          | tags To Post              |       Profile Page      |   Profile Edit Page  |   Search Page                |
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-![](test/s_feed.png)|    ![](test/s_composefeed.png)|![](test/s_tag.png)|![](test/s_profile.png)|  ![](test/Screenshot_2022-04-26-08-00-12-50.png) | ![](test/s_search.png)|
+|   Home Page bottomsheet              |  Feed Page                  |  Compose Post Page          | tags To Post              |       Profile Page      |   Profile Edit Page  |   Search Page                |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+![](test/s_watchlistbottom.png)|  ![](test/s_feed.png)|    ![](test/s_composefeed.png)|![](test/s_tag.png)|![](test/s_profile.png)|  ![](test/Screenshot_2022-04-26-08-00-12-50.png) | ![](test/s_search.png)|
 
 
 
