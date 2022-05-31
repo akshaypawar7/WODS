@@ -7,21 +7,20 @@ A Stock Market app built in Flutter using Firebase auth,realtime,firestore datab
 <details>
      <summary> Click to expand </summary>
      
-* [intl](https://pub.dev/packages/intl)
-* [uuid](https://pub.dev/packages/uuid)
-* [http](https://pub.dev/packages/http)
-* [share](https://pub.dev/packages/share)
-* [provider](https://pub.dev/packages/provider)
-* [url_launcher](https://pub.dev/packages/url_launcher)
-* [google_fonts](https://pub.dev/packages/google_fonts)
-* [image_picker](https://pub.dev/packages/image_picker)
-* [firebase_auth](https://pub.dev/packages/firebase_auth)
-* [google_sign_in](https://pub.dev/packages/google_sign_in)
+* [firebase_core](https://pub.dev/packages/firebase_core)
 * [firebase_analytics](https://pub.dev/packages/firebase_analytics)
+* [cloud_firestore](https://pub.dev/packages/cloud_firestore)
 * [firebase_database](https://pub.dev/packages/firebase_database)
-* [shared_preferences](https://pub.dev/packages/shared_preferences)
-* [flutter_advanced_networkimage](https://pub.dev/packages/flutter_advanced_networkimage)
-     
+* [firebase_storage](https://pub.dev/packages/firebase_storage)
+* [hive](https://pub.dev/packages/hive)
+* [hive_flutter](https://pub.dev/packages/hive_flutter)
+* [syncfusion_flutter_charts](https://pub.dev/packages/syncfusion_flutter_charts)
+* [provider](https://pub.dev/packages/provider)
+* [intl](https://pub.dev/packages/intl)
+* [http](https://pub.dev/packages/http)
+* [image_picker](https://pub.dev/packages/image_picker)
+* [timego](https://pub.dev/packages/timeago)
+ 
 </details>
 
 ## Screenshots
